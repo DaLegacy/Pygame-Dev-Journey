@@ -1,0 +1,30 @@
+{
+  "SpriteSheets": {
+    "SpriteSheetExample_Player": {
+      "spriteMetadata": {
+        "spriteWidth": 96,
+        "spriteHeight": 96
+      },
+      "rows": {
+        "player_idle_right": 5,
+        "player_idle_left": 5,
+        "player_walk_left": 8,
+        "player_walk_right": 8,
+        "player_shoot_left": 5,
+        "player_shoot_right": 5,
+        "player_jump_left": 8,
+        "player_jump_right": 8
+      }
+    },
+    "SpriteSheetExample": {
+      "spriteMetadata": {
+        "spriteWidth": 96,
+        "spriteHeight": 96
+      },
+      "rows": {
+        "example1": 4,
+        "example2": 6
+      }
+    }
+  }
+}
